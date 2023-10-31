@@ -11,7 +11,8 @@ import SwiftUI
 struct routeTrackerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            MapViewDemo()
         }
     }
 }
